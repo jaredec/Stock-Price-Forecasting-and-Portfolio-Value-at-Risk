@@ -1,0 +1,2 @@
+# Stock-Price-Forecasting-and-Portfolio-Value-at-Risk
+This project combines two key components: Stock price forecasting using Geometric Brownian Motion (GBM) and Monte Carlo Simulation for portfolio management. By integrating these techniques, the project aims to provide a method to forecast individual stock returns and measure the value at risk (VaR) within the context of a diversified portfolio.
